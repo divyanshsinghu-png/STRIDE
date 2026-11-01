@@ -4,7 +4,7 @@ Stride is a fitness web app that turns your height, weight and goal into a daily
 
 Built as a college project (Project Expo) with plain HTML, CSS and JavaScript. Supabase provides login and the database. There is no build step and no framework.
 
-**Live demo:** `https://YOUR-USERNAME.github.io/stride/`
+**Live demo:** `https://divyanshsinghu-png.github.io/STRIDE/`
 
 ---
 
