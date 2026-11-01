@@ -1,6 +1,6 @@
 // ====== 1. YOUR SUPABASE DETAILS ======
-const SUPABASE_URL = "https://efzucglujutvuyzvndcq.supabase.co";
-const SUPABASE_KEY = "sb_publishable_CKUJ3e3UYYwpNe5rGUggCA_7BljwzoE";
+const SUPABASE_URL = "https://mbrceoxufklnigbhbdcm.supabase.co";
+const SUPABASE_KEY = "sb_publishable_WhTVOklwPbOc1VX9rt7KDw_x2ie_v4Y";
 // =================================================
 const $ = (s) => document.querySelector(s),
   app = $("#app");
